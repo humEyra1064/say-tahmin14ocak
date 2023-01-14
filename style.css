@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Yeon+Sung&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Yeon Sung', cursive;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FA8BFF;
+   background: linear-gradient(#333,#eee,#333);
+    
+
+    
+
+}
+.container{
+    background-color: rgb(213, 213, 213);
+    width: 70%;
+    max-width: 500px;
+    height: 470px;
+    border-radius: 100px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    
+
+}
+h1{
+    margin: 30px;
+    text-align: center;
+}
+
+.myBtn{
+text-align: center;
+margin: 30px;
+/* margin-bottom: 30px; */
+
+}
+
+input{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.btn{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+img{
+    display: block;
+    width:200px;
+
+    margin: auto;
+    border-radius: 100px;
+
+}
+.bottom{
+    margin: 30px;
+    text-align: center;
+}
+h4{
+    margin: 10px;
+}
